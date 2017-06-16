@@ -1,0 +1,18 @@
+{
+    "author": "mzxgiant",
+    "version": "v1.0",
+    "title": "TP-Link Smart Devices interface driver",
+    "description": "TP-Link driver for HS100/105/110, LB100/110/120/130",
+    "published": "2017-06-15T00:00:00Z",
+    "sourcecode": "https://github.com/mzxgiant/mig-homeauto-tplink",
+    "homepage": "", 
+    "widgets": [ ],
+    "programs": [ ],
+    "interfaces": [ 
+        { 
+            "file": "MIG-TPLink_1_0.zip",
+            "name":"TP-Link interface driver",
+            "description": "TP-Link driver for HS100/105/110, LB100/110/120/130"
+        }
+    ]
+}
